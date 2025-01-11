@@ -1,0 +1,10 @@
+Cross-Validation Mean R² Score: 0.7408
+Cross-Validation Std Dev R² Score: 0.0119
+
+{'model_config': {'input_size': 10, 
+'features': ['Latitude', 'Longitude', 'Month', 'Hour', 'DayOfYear', 'Distance_From_Equator', 'Is_Land', 'Temperature', 'Humidity', 'Pressure']}, 'feature_importance': {'feature': {7: 'Temperature', 4: 'DayOfYear', 9: 'Pressure', 1: 'Longitude', 0: 'Latitude', 5: 'Distance_From_Equator', 8: 'Humidity', 2: 'Month', 3: 'Hour', 6: 'Is_Land'},
+ 'importance': {7: 0.5035482247297774, 4: 0.20700282581461027, 9: 0.13876570950260203, 1: 0.08553550163910285, 0: 0.021897933624731213, 5: 0.021380829979799617, 8: 0.02055937713665155, 2: 0.0013095975727251193, 3: 0.0, 6: 0.0}}, 
+ 'cross_validation_score': {'mean': np.float64(0.7407727338950805), 'std': np.float64(0.011873609980075037)}
+ }
+
+ 
