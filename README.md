@@ -1,8 +1,8 @@
 # cnn_lstm
 
-# Earthquke TEC Prediction using LSTM Autoencoder
+## Earthquke TEC Prediction using LSTM Autoencoder
 
-# Lighitning Prediction using Conv LSTM 
+## Lighitning Prediction using Conv LSTM 
 
 ## Overview
 This project implements a deep learning model to predict Total Electron Content (TEC) values using an LSTM-based architecture. The model utilizes geomagnetic indices (Ap, Kp) and temporal features to forecast TEC values, which can be valuable for studying ionospheric behavior and potentially identifying earthquake precursors.
